@@ -18,4 +18,4 @@ Import-Module cliHelper.docker
 
 ## License
 
-This project is licensed under the [WTFPL License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
